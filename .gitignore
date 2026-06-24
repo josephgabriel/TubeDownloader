@@ -1,0 +1,14 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Arquivos baixados
+*.mp4
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
