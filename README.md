@@ -7,13 +7,13 @@ Aplicação desenvolvida em Python para baixar vídeos do YouTube utilizando uma
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/josephgabriel/TubeDownloader.git
 ```
 
 Acesse a pasta do projeto:
 
 ```bash
-cd seu-repositorio
+cd TubeDownloader
 ```
 
 Instale as dependências:
